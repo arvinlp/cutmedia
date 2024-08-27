@@ -1,0 +1,31 @@
+{
+    "remotePath": "./domains/cut-media.ir/public_html/",
+    "host": "193.151.128.55",
+    "username": "cutmedia",
+    "password": "NiH0BmTw",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\node_modules",
+        ".env",
+        ".env.example",
+        ".htaccess"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
